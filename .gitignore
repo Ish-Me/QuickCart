@@ -1,0 +1,62 @@
+# Built application files
+*.apk
+*.aar
+*.ap_
+*.aab
+
+# Files for the ART/Dalvik VM
+*.dex
+
+# Java class files
+*.class
+
+# Generated files
+bin/
+gen/
+out/
+release/
+
+# Gradle files
+.gradle/
+build/
+captures/
+.externalNativeBuild
+.cxx
+
+# Local configuration file (SDK paths, API keys)
+local.properties
+
+# Gradle properties — contains your Claude API key
+gradle.properties
+
+# Firebase config (contains API keys, project IDs)
+google-services.json
+
+# Android Studio / IntelliJ
+.idea/
+*.iml
+*.iws
+*.ipr
+.navigation/
+captures/
+
+# Keystore files (NEVER commit signing keys)
+*.jks
+*.keystore
+
+# Log files
+*.log
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# NDK
+obj/
+
+# Lint
+lint/intermediates/
+lint/generated/
+lint/outputs/
+lint/tmp/
+lint/reports/
