@@ -32,7 +32,7 @@ Each use case handles validation (like checking if the cart is empty before plac
 ## Folder structure
 
 ```
-com.ishaan.quickcart
+src/main/java/com/ishaan/quickcart
 ├── ai/              -> Claude API service, repository, request/response models
 ├── data/
 │   ├── firebase/    -> Auth, Product, Order repositories
